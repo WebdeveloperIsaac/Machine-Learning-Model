@@ -12,3 +12,4 @@ for adding certain equations and increase the accuracy
 
 ![Isaac A - Pandas (1)](https://user-images.githubusercontent.com/81617518/191575265-f4721f3e-a743-45c8-a994-b85038749ffd.png)
 ![Isaac A - Intermediate Machine Learning](https://user-images.githubusercontent.com/81617518/191575270-330dd84d-06f9-4200-94d4-ae91452a08d6.png)
+![Isaac A - Data Visualization](https://user-images.githubusercontent.com/81617518/217743104-00947ee6-3e16-43f3-9f64-f4e9562fa399.png)
